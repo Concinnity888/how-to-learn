@@ -4,4 +4,9 @@
   align-items: center;
   width: 270px;
   height: 38px;
+  transition: opacity 3s ease;
+}
+
+.resources__logo:hover {
+  opacity: 0.75;
 }
